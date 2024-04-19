@@ -2,7 +2,7 @@ import os
 import time
 from typing import List
 
-from src.common.constants import Constants
+from constants import Constants
 
 
 class AndroidPlayer:

@@ -1,7 +1,7 @@
-from src.player.android_player import AndroidPlayer
-from src.solver.solver import Solver, Solution
-from src.scanner.android_reader import AndroidReader
-from src.scanner.scanner import Scanner, LevelRepresentation
+from android_player import AndroidPlayer
+from solver import Solver, Solution
+from android_reader import AndroidReader
+from scanner import Scanner, LevelRepresentation
 
 
 if __name__ == '__main__':
